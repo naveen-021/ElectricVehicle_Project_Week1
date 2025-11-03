@@ -1,0 +1,354 @@
+row_id,title,model,battery,price-range,0_-_100,top_speed,range*,efficiency*,fastcharge*,germany_price_before_incentives,netherlands_price_before_incentives,uk_price_after_incentives,drive_configuration,tow_hitch,towing_capacity_in_kg,number_of_seats
+1,Tesla,Model 3,57.5,104,6.1 sec,,,,690 km/h,41970.0,41990.0,0.0,Rear Wheel Drive,Towbar possible,1000.0,5
+2,Tesla,Model Y,57.5,137,6.9 sec,,,,580 km/h,45970.0,45990.0,0.0,Rear Wheel Drive,Towbar possible,1600.0,5
+3,Tesla,Model Y Long Range Dual Motor,75.0,130,5.0 sec,,,,670 km/h,55970.0,52990.0,0.0,All Wheel Drive,Towbar possible,1600.0,5
+4,Tesla,Model 3 Long Range Dual Motor,75.0,106,4.4 sec,,,,770 km/h,50970.0,49990.0,0.0,All Wheel Drive,Towbar possible,1000.0,5
+5,Tesla,Model Y Long Range RWD,75.0,109,5.9 sec,,,,710 km/h,49970.0,49990.0,0.0,Rear Wheel Drive,Towbar possible,1600.0,5
+6,Byd,ATTO 3,60.5,121,7.3 sec,,,,370 km/h,37990.0,38990.0,0.0,Front Wheel Drive,,1500.0,5
+7,Mg,MG4 Electric 64 kWh,61.7,102,7.9 sec,,,,630 km/h,39990.0,35785.0,0.0,Rear Wheel Drive,Towbar possible,500.0,5
+8,Byd,SEAL 82.5 kWh AWD Excellence,82.5,107,3.8 sec,,,,540 km/h,50990.0,50990.0,0.0,All Wheel Drive,,1500.0,5
+9,Tesla,Model Y Performance,75.0,152,3.8 sec,,,,640 km/h,60790.0,58990.0,0.0,All Wheel Drive,Towbar possible,1600.0,5
+10,Bmw,i4 eDrive40,80.7,122,5.7 sec,,,,800 km/h,59200.0,62992.0,0.0,Rear Wheel Drive,Towbar possible,1600.0,5
+11,Citroen,e-C3,44.0,90,11.0 sec,,,,340 km/h,23300.0,24290.0,0.0,Front Wheel Drive,Towbar possible,550.0,5
+12,Bmw,iX xDrive40,71.0,225,6.1 sec,,,,480 km/h,77300.0,84998.0,0.0,All Wheel Drive,Towbar possible,2500.0,5
+13,Volkswagen,ID.4 Pro,77.0,114,6.7 sec,,,,650 km/h,46335.0,49990.0,0.0,Rear Wheel Drive,Towbar possible,1000.0,5
+14,Byd,DOLPHIN 60.4 kWh,60.5,101,7.0 sec,,,,340 km/h,32990.0,35490.0,0.0,Front Wheel Drive,Towbar possible,0.0,5
+15,Volvo,EX30 Single Motor ER,64.0,118,5.3 sec,,,,600 km/h,41790.0,41495.0,0.0,Rear Wheel Drive,Towbar possible,1400.0,5
+16,Tesla,Model S Plaid,95.0,199,2.3 sec,,,,780 km/h,110970.0,108990.0,0.0,All Wheel Drive,Towbar possible,1600.0,5
+17,Tesla,Model S Dual Motor,95.0,167,3.2 sec,,,,800 km/h,95970.0,93990.0,0.0,All Wheel Drive,Towbar possible,1600.0,5
+18,Kia,Niro EV,64.8,111,7.8 sec,,,,390 km/h,45690.0,39995.0,0.0,Front Wheel Drive,Towbar possible,750.0,5
+19,Hyundai,Kona Electric 65 kWh,65.4,116,7.8 sec,,,,400 km/h,47190.0,43995.0,0.0,Front Wheel Drive,Towbar possible,750.0,5
+20,Tesla,Model 3 Performance,75.0,135,3.2 sec,,,,700 km/h,57970.0,56990.0,0.0,All Wheel Drive,,1500.0,5
+21,Byd,HAN,85.4,146,3.9 sec,,,,450 km/h,69020.0,69990.0,0.0,All Wheel Drive,,1500.0,5
+22,Cupra,Born 150 kW - 58 kWh,58.0,113,7.3 sec,,,,470 km/h,39370.0,36939.0,0.0,Rear Wheel Drive,,1500.0,5
+23,Fiat,500e Hatchback 42 kWh,37.3,149,9.0 sec,,,,390 km/h,34990.0,34490.0,0.0,Front Wheel Drive,,1500.0,4
+24,Byd,SEAL 82.5 kWh RWD Design,82.5,96,5.9 sec,,,,550 km/h,44990.0,45990.0,0.0,Rear Wheel Drive,,1500.0,5
+25,Byd,TANG,86.4,199,4.6 sec,,,,420 km/h,71400.0,69990.0,0.0,All Wheel Drive,Towbar possible,1500.0,7
+26,Dacia,Spring Electric 45,25.0,137,19.1 sec,,,,180 km/h,22550.0,58452.5,0.0,Front Wheel Drive,,1500.0,4
+27,Renault,Scenic E-Tech EV87 220hp,87.0,98,7.9 sec,,,,510 km/h,48900.0,47970.0,0.0,Front Wheel Drive,Towbar possible,1100.0,5
+28,Bmw,iX3,74.0,184,6.8 sec,,,,520 km/h,67300.0,71462.0,0.0,Rear Wheel Drive,Towbar possible,750.0,5
+29,Bmw,iX1 xDrive30,64.7,147,5.6 sec,,,,510 km/h,55000.0,57850.0,0.0,All Wheel Drive,Towbar possible,1200.0,5
+30,Tesla,Model Y,57.5,137,6.9 sec,,,,810 km/h,45970.0,45990.0,0.0,Rear Wheel Drive,Towbar possible,1600.0,5
+31,Skoda,Enyaq 85,77.0,111,6.7 sec,,,,670 km/h,48900.0,49990.0,0.0,Rear Wheel Drive,Towbar possible,1000.0,5
+32,Nio,ET7 75 kWh,70.5,208,3.8 sec,,,,600 km/h,81900.0,84900.0,0.0,All Wheel Drive,Towbar possible,2000.0,5
+33,Audi,Q6 e-tron quattro,94.9,170,5.9 sec,,,,920 km/h,74700.0,80000.0,0.0,All Wheel Drive,Towbar possible,2400.0,5
+34,Byd,SEAL U 71.8 kWh Comfort,71.8,126,9.3 sec,,,,320 km/h,56202.0,42990.0,0.0,Front Wheel Drive,,1500.0,5
+35,Mg,ZS EV Long Range,68.3,105,8.4 sec,,,,420 km/h,37990.0,40185.0,0.0,Front Wheel Drive,Towbar possible,500.0,5
+36,Toyota,bZ4X FWD,64.0,144,7.5 sec,,,,510 km/h,47490.0,45995.0,0.0,Front Wheel Drive,Towbar possible,750.0,5
+37,Renault,5 E-Tech 52kWh 150hp,52.0,97,7.5 sec,,,,420 km/h,32000.0,32000.0,0.0,Front Wheel Drive,Towbar possible,500.0,5
+38,Bmw,i4 M50,80.7,170,3.9 sec,,,,700 km/h,70800.0,76786.0,0.0,All Wheel Drive,Towbar possible,1600.0,5
+39,Renault,Megane E-Tech EV60 220hp,60.0,113,7.4 sec,,,,530 km/h,46600.0,39370.0,0.0,Front Wheel Drive,Towbar possible,900.0,5
+40,Rolls-royce,Spectre,102.0,828,4.5 sec,,,,540 km/h,379015.0,396275.0,0.0,All Wheel Drive,,1500.0,4
+41,Kia,EV6 Long Range 2WD,74.0,126,7.3 sec,,,,1070 km/h,51990.0,50995.0,0.0,Rear Wheel Drive,Towbar possible,1600.0,5
+42,Honda,e:Ny1,61.9,147,7.6 sec,,,,300 km/h,47590.0,48750.0,0.0,Front Wheel Drive,,1500.0,5
+43,Volkswagen,ID.3 Pro,58.0,122,7.3 sec,,,,450 km/h,39995.0,44990.0,0.0,Rear Wheel Drive,Towbar possible,0.0,5
+44,Renault,Zoe ZE50 R110,52.0,114,11.4 sec,,,,230 km/h,36840.0,34895.0,0.0,Front Wheel Drive,,1500.0,5
+45,Nissan,Leaf,39.0,144,7.9 sec,,,,230 km/h,33400.0,35090.0,0.0,Front Wheel Drive,,1500.0,5
+46,Lucid,Air Grand Touring,112.0,196,3.0 sec,,,,840 km/h,129000.0,132000.0,0.0,All Wheel Drive,,1500.0,5
+47,Hongqi,E-HS9 99 kWh,90.0,216,4.9 sec,,,,430 km/h,56202.0,79995.0,0.0,All Wheel Drive,Towbar possible,1500.0,5
+48,Cupra,Born 170 kW - 77 kWh,77.0,105,7.0 sec,,,,630 km/h,46450.0,46989.0,0.0,Rear Wheel Drive,,1500.0,4
+49,Zeekr,001 Long Range RWD,94.0,116,7.2 sec,,,,710 km/h,60970.0,60490.0,0.0,Rear Wheel Drive,Towbar possible,1500.0,5
+50,Hyundai,IONIQ 6 Long Range 2WD,74.0,107,7.4 sec,,,,1290 km/h,54000.0,50895.0,0.0,Rear Wheel Drive,Towbar possible,1500.0,5
+51,Hyundai,IONIQ 5 Long Range 2WD,74.0,132,7.3 sec,,,,1020 km/h,47900.0,52895.0,0.0,Rear Wheel Drive,Towbar possible,1600.0,5
+52,Porsche,Macan 4 Electric,95.0,174,5.2 sec,,,,970 km/h,84100.0,88899.0,0.0,All Wheel Drive,Towbar possible,2000.0,5
+53,Bmw,i7 xDrive60,101.7,272,4.7 sec,,,,760 km/h,139900.0,145453.0,0.0,All Wheel Drive,Towbar possible,2000.0,5
+54,Bmw,i4 eDrive35,67.0,134,6.0 sec,,,,580 km/h,56500.0,59362.0,0.0,Rear Wheel Drive,Towbar possible,1600.0,5
+55,Hyundai,IONIQ 5 N,80.0,194,3.4 sec,,,,950 km/h,74900.0,73995.0,0.0,All Wheel Drive,,1500.0,5
+56,Volkswagen,ID.7 Pro,77.0,126,6.5 sec,,,,730 km/h,56995.0,57990.0,0.0,Rear Wheel Drive,Towbar possible,1000.0,5
+57,Mercedes-benz,EQB 250+,70.5,136,8.9 sec,,,,490 km/h,53514.0,54966.0,0.0,Front Wheel Drive,Towbar possible,1400.0,7
+58,Mg,MG4 Electric 51 kWh,50.8,109,7.7 sec,,,,380 km/h,34990.0,32285.0,0.0,Rear Wheel Drive,Towbar possible,500.0,5
+59,Audi,Q4 e-tron 45,77.0,132,6.7 sec,,,,630 km/h,52950.0,54865.0,0.0,Rear Wheel Drive,Towbar possible,1000.0,5
+60,Kia,EV9 99.8 kWh AWD,96.0,170,6.0 sec,,,,830 km/h,76490.0,71495.0,0.0,All Wheel Drive,Towbar possible,2500.0,7
+61,Smart,#1 Pro+,62.0,126,6.7 sec,,,,520 km/h,42490.0,42935.0,0.0,Rear Wheel Drive,Towbar possible,1600.0,5
+62,Audi,Q8 e-tron 55 quattro,106.0,170,5.6 sec,,,,640 km/h,85300.0,82985.0,0.0,All Wheel Drive,Towbar possible,1800.0,5
+63,Nissan,Ariya 87kWh,87.0,117,7.6 sec,,,,540 km/h,58990.0,47990.0,0.0,Front Wheel Drive,Towbar possible,750.0,5
+64,Ford,Mustang Mach-E ER RWD,91.0,126,7.0 sec,,,,420 km/h,58500.0,54400.0,0.0,Rear Wheel Drive,Towbar possible,1500.0,5
+65,Bmw,iX xDrive50,105.2,213,4.6 sec,,,,680 km/h,100100.0,105097.0,0.0,All Wheel Drive,Towbar possible,2500.0,5
+66,Volvo,EX30 Single Motor,49.0,136,5.7 sec,,,,420 km/h,36590.0,36795.0,0.0,Rear Wheel Drive,Towbar possible,1000.0,5
+67,Bmw,iX1 eDrive20,64.7,127,8.3 sec,,,,520 km/h,47900.0,48316.0,0.0,Front Wheel Drive,Towbar possible,750.0,5
+68,Hyundai,IONIQ 6 Long Range AWD,74.0,135,5.1 sec,,,,1150 km/h,61100.0,59395.0,0.0,All Wheel Drive,Towbar possible,1500.0,5
+69,Kia,EV6 GT,74.0,198,3.5 sec,,,,940 km/h,72990.0,69295.0,0.0,All Wheel Drive,Towbar possible,1800.0,5
+70,Opel,Astra Electric,50.8,131,9.2 sec,,,,510 km/h,41990.0,39999.0,0.0,Front Wheel Drive,Towbar possible,0.0,5
+71,Mercedes-benz,EQA 250,66.5,129,8.6 sec,,,,570 km/h,50777.0,58452.5,0.0,Front Wheel Drive,Towbar possible,1500.0,5
+72,Peugeot,e-3008 98 kWh Long Range,98.0,111,8.9 sec,,,,660 km/h,55000.0,55000.0,0.0,Front Wheel Drive,Towbar possible,1200.0,5
+73,Mercedes-benz,EQS 450+,108.4,175,6.1 sec,,,,950 km/h,109551.0,112720.0,0.0,Rear Wheel Drive,Towbar possible,750.0,5
+74,Polestar,2 Long Range Single Motor,79.0,112,6.2 sec,,,,700 km/h,49975.0,51200.0,0.0,Rear Wheel Drive,Towbar possible,1500.0,5
+75,Peugeot,e-3008 73 kWh,73.0,129,8.7 sec,,,,440 km/h,48650.0,48190.0,0.0,Front Wheel Drive,Towbar possible,1250.0,5
+76,Volkswagen,ID. Buzz Pro,77.0,192,10.2 sec,,,,480 km/h,64581.0,66160.0,0.0,Rear Wheel Drive,Towbar possible,1000.0,5
+77,Hyundai,IONIQ 5 Long Range AWD,74.0,154,5.1 sec,,,,1010 km/h,59200.0,60995.0,0.0,All Wheel Drive,Towbar possible,1600.0,5
+78,Jeep,Avenger Electric,50.8,127,9.0 sec,,,,500 km/h,38500.0,39500.0,0.0,Front Wheel Drive,,1500.0,5
+79,Hyundai,IONIQ 5 Standard Range 2WD,54.0,162,8.5 sec,,,,720 km/h,43900.0,49295.0,0.0,Rear Wheel Drive,Towbar possible,750.0,5
+80,Zeekr,001 Performance AWD,94.0,127,3.8 sec,,,,670 km/h,63970.0,63490.0,0.0,All Wheel Drive,Towbar possible,2000.0,5
+81,Bmw,i5 eDrive40 Sedan,81.2,165,6.0 sec,,,,750 km/h,70200.0,77572.0,0.0,Rear Wheel Drive,Towbar possible,1500.0,5
+82,Citroen,e-C4,46.3,127,9.7 sec,,,,460 km/h,36040.0,37830.0,0.0,Front Wheel Drive,,1500.0,5
+83,Ford,Explorer Extended Range RWD,77.0,115,6.4 sec,,,,640 km/h,49500.0,45950.0,0.0,Rear Wheel Drive,Towbar possible,1000.0,5
+84,Kia,EV6 Long Range AWD,74.0,146,5.2 sec,,,,1050 km/h,55980.0,59995.0,0.0,All Wheel Drive,Towbar possible,1600.0,5
+85,Mazda,MX-30,30.0,212,9.7 sec,,,,170 km/h,35990.0,36440.0,0.0,Front Wheel Drive,,1500.0,5
+86,Alfa romeo,Junior Elettrica 54 kWh Veloce,50.8,152,7.0 sec,,,,490 km/h,46000.0,45000.0,0.0,Front Wheel Drive,,1500.0,5
+87,Volvo,EX30 Twin Motor Performance,64.0,145,3.6 sec,,,,560 km/h,48490.0,49995.0,0.0,All Wheel Drive,Towbar possible,1600.0,5
+88,Mini,Countryman E,64.7,117,8.6 sec,,,,520 km/h,43500.0,43490.0,0.0,Front Wheel Drive,Towbar possible,750.0,5
+89,Nio,ET5 100 kWh,90.0,140,4.0 sec,,,,520 km/h,68500.0,71700.0,0.0,All Wheel Drive,Towbar possible,1400.0,5
+90,Volkswagen,ID. Buzz LWB Pro S,86.0,199,8.0 sec,,,,470 km/h,73000.0,73000.0,0.0,Rear Wheel Drive,Towbar possible,1500.0,7
+91,Tesla,Model X Dual Motor,95.0,226,3.9 sec,,,,660 km/h,100970.0,100993.0,0.0,All Wheel Drive,Towbar possible,2250.0,7
+92,Volkswagen,ID.7 Pro S,86.0,120,7.0 sec,,,,800 km/h,60000.0,60000.0,0.0,Rear Wheel Drive,,1500.0,5
+93,Mg,MG4 Electric 77 kWh,74.4,101,6.5 sec,,,,430 km/h,45990.0,41285.0,0.0,Rear Wheel Drive,Towbar possible,500.0,5
+94,Dacia,Spring Electric 45,25.0,109,19.1 sec,,,,180 km/h,18000.0,18950.0,0.0,Front Wheel Drive,,1500.0,4
+95,Mg,MG5 Electric Long Range,57.4,112,7.7 sec,,,,330 km/h,38490.0,38885.0,0.0,Front Wheel Drive,Towbar possible,500.0,5
+96,Kia,EV9 99.8 kWh AWD GT-Line,96.0,193,5.3 sec,,,,810 km/h,82380.0,78895.0,0.0,All Wheel Drive,Towbar possible,2500.0,7
+97,Mercedes-benz,EQV 300 Long,90.0,266,12.1 sec,,,,320 km/h,79048.0,88626.0,0.0,Front Wheel Drive,,1500.0,7
+98,Byd,SEAL U 87 kWh Design,87.0,114,9.6 sec,,,,370 km/h,56202.0,45990.0,0.0,Front Wheel Drive,,1500.0,5
+99,Byd,DOLPHIN 44.9 kWh Active,44.9,115,12.3 sec,,,,260 km/h,28000.0,29990.0,0.0,Front Wheel Drive,,1500.0,5
+100,Smart,#1 Brabus,62.0,152,3.9 sec,,,,500 km/h,48990.0,48895.0,0.0,All Wheel Drive,Towbar possible,1600.0,5
+101,Lotus,Eletre,109.0,202,4.5 sec,,,,1040 km/h,96990.0,98690.0,0.0,All Wheel Drive,Towbar possible,2250.0,5
+102,Renault,Zoe ZE50 R135,52.0,117,9.5 sec,,,,230 km/h,37840.0,36195.0,0.0,Front Wheel Drive,,1500.0,5
+103,Maxus,MIFA 9,84.0,197,9.2 sec,,,,420 km/h,68990.0,58452.5,0.0,Front Wheel Drive,Towbar possible,1000.0,7
+104,Lexus,RZ 450e,64.0,218,5.6 sec,,,,480 km/h,68000.0,67495.0,0.0,All Wheel Drive,Towbar possible,750.0,5
+105,Mercedes-benz,EQE 350+,90.6,155,6.4 sec,,,,790 km/h,56202.0,82028.0,0.0,Rear Wheel Drive,Towbar possible,750.0,5
+106,Bmw,i5 M60 xDrive Sedan,81.2,254,3.8 sec,,,,670 km/h,99500.0,108427.0,0.0,All Wheel Drive,Towbar possible,2000.0,5
+107,Cupra,Tavascan VZ,77.0,141,5.6 sec,,,,640 km/h,58000.0,60000.0,0.0,All Wheel Drive,,1500.0,5
+108,Xpeng,G9 RWD Standard Range,75.8,148,6.4 sec,,,,830 km/h,57600.0,59188.0,0.0,Rear Wheel Drive,Towbar possible,1500.0,5
+109,Subaru,Solterra AWD,64.0,179,6.9 sec,,,,480 km/h,57490.0,56395.0,0.0,All Wheel Drive,Towbar possible,750.0,5
+110,Xpeng,G6 RWD Long Range,87.5,102,6.7 sec,,,,980 km/h,50000.0,50000.0,0.0,Rear Wheel Drive,Towbar possible,1500.0,5
+111,Mini,Cooper SE,49.8,126,6.7 sec,,,,440 km/h,36900.0,38990.0,0.0,Front Wheel Drive,,1500.0,4
+112,Hyundai,IONIQ 6 Standard Range 2WD,54.0,123,8.8 sec,,,,900 km/h,43900.0,45895.0,0.0,Rear Wheel Drive,Towbar possible,750.0,5
+113,Maserati,GranTurismo Folgore,83.0,480,2.7 sec,,,,920 km/h,198212.0,199250.0,0.0,All Wheel Drive,,1500.0,4
+114,Volvo,EX40 Single Motor ER,79.0,135,7.3 sec,,,,600 km/h,55490.0,51995.0,0.0,Rear Wheel Drive,Towbar possible,1500.0,5
+115,Toyota,bZ4X AWD,64.0,181,6.9 sec,,,,470 km/h,57390.0,52995.0,0.0,All Wheel Drive,Towbar possible,750.0,5
+116,Bmw,iX2 xDrive30,64.7,160,5.6 sec,,,,510 km/h,56500.0,59350.0,0.0,All Wheel Drive,Towbar possible,1200.0,5
+117,Ford,Explorer Extended Range AWD,79.0,131,5.3 sec,,,,690 km/h,53500.0,53950.0,0.0,All Wheel Drive,Towbar possible,1200.0,5
+118,Skoda,Enyaq Coupe 85,77.0,109,6.7 sec,,,,720 km/h,51150.0,52990.0,0.0,Rear Wheel Drive,Towbar possible,1000.0,5
+119,Mg,ZS EV Standard Range,49.0,132,8.6 sec,,,,250 km/h,33990.0,35885.0,0.0,Front Wheel Drive,Towbar possible,500.0,5
+120,Fisker,Ocean Extreme,106.5,132,3.9 sec,,,,580 km/h,63590.0,63590.0,0.0,All Wheel Drive,Towbar possible,1820.0,5
+121,Volkswagen,ID.7 Tourer Pro,77.0,130,6.6 sec,,,,710 km/h,54795.0,58990.0,0.0,Rear Wheel Drive,Towbar possible,1000.0,5
+122,Renault,Twingo Electric,21.3,207,12.6 sec,,,,-,28000.0,58452.5,0.0,Rear Wheel Drive,,1500.0,4
+123,Polestar,4 Long Range Single Motor,94.0,133,7.4 sec,,,,670 km/h,63200.0,64800.0,0.0,Rear Wheel Drive,Towbar possible,1500.0,5
+124,Polestar,4 Long Range Dual Motor,94.0,158,3.8 sec,,,,630 km/h,71200.0,72800.0,0.0,All Wheel Drive,Towbar possible,2000.0,5
+125,Fisker,Ocean Ultra,106.5,115,4.2 sec,,,,610 km/h,58900.0,58990.0,0.0,All Wheel Drive,Towbar possible,1820.0,5
+126,Tesla,Model X Plaid,95.0,271,2.7 sec,,,,630 km/h,115970.0,115993.0,0.0,All Wheel Drive,Towbar possible,2250.0,7
+127,Mg,MG4 Electric XPOWER,61.7,137,3.8 sec,,,,560 km/h,46990.0,42285.0,0.0,All Wheel Drive,Towbar possible,500.0,5
+128,Alfa romeo,Junior Elettrica 54 kWh,50.8,127,9.0 sec,,,,500 km/h,39500.0,39000.0,0.0,Front Wheel Drive,,1500.0,5
+129,Opel,Mokka-e 50 kWh,46.3,154,9.2 sec,,,,420 km/h,40650.0,36999.0,0.0,Front Wheel Drive,,1500.0,5
+130,Kia,EV9 99.8 kWh RWD,96.0,159,9.4 sec,,,,850 km/h,72490.0,67995.0,0.0,Rear Wheel Drive,Towbar possible,900.0,7
+131,Peugeot,e-208 50 kWh,46.3,127,9.0 sec,,,,460 km/h,37475.0,35870.0,0.0,Front Wheel Drive,,1500.0,5
+132,Mercedes-benz,EQE 300,89.0,137,7.3 sec,,,,660 km/h,67187.0,69928.0,0.0,Rear Wheel Drive,Towbar possible,750.0,5
+133,Polestar,2 Standard Range Single Motor,67.0,118,6.4 sec,,,,480 km/h,46275.0,44950.0,0.0,Rear Wheel Drive,Towbar possible,1500.0,5
+134,Volkswagen,ID.7 Tourer GTX,86.0,142,6.0 sec,,,,770 km/h,65000.0,65000.0,0.0,All Wheel Drive,Towbar possible,1500.0,5
+135,Polestar,2 Long Range Dual Motor,79.0,125,4.5 sec,,,,670 km/h,52275.0,55200.0,0.0,All Wheel Drive,Towbar possible,1500.0,5
+136,Maserati,GranCabrio Folgore,83.0,530,2.8 sec,,,,870 km/h,206713.0,208250.0,0.0,All Wheel Drive,,1500.0,4
+137,Hyundai,Kona Electric 48 kWh,48.4,138,8.8 sec,,,,280 km/h,41990.0,39995.0,0.0,Front Wheel Drive,Towbar possible,300.0,5
+138,Smart,#3 Brabus,62.0,153,3.7 sec,,,,520 km/h,50990.0,50895.0,0.0,All Wheel Drive,Towbar possible,1600.0,5
+139,Porsche,Macan Turbo Electric,95.0,239,3.3 sec,,,,960 km/h,114600.0,121000.0,0.0,All Wheel Drive,Towbar possible,2000.0,5
+140,Volkswagen,ID.4 Pro 4MOTION,77.0,119,6.6 sec,,,,630 km/h,49020.0,51990.0,0.0,All Wheel Drive,Towbar possible,1200.0,5
+141,Lancia,Ypsilon,48.1,131,8.5 sec,,,,470 km/h,40000.0,40000.0,0.0,Front Wheel Drive,,1500.0,5
+142,Volkswagen,ID.7 Tourer Pro S,86.0,126,7.0 sec,,,,810 km/h,61000.0,61000.0,0.0,Rear Wheel Drive,Towbar possible,1500.0,5
+143,Fiat,600e,50.8,121,9.0 sec,,,,490 km/h,36490.0,35990.0,0.0,Front Wheel Drive,,1500.0,5
+144,Nissan,Leaf e+,59.0,121,6.9 sec,,,,240 km/h,41100.0,58452.5,0.0,Front Wheel Drive,,1500.0,5
+145,Peugeot,e-5008 73 kWh,73.0,143,9.0 sec,,,,430 km/h,52000.0,52000.0,0.0,Front Wheel Drive,Towbar possible,1000.0,7
+146,Mercedes-benz,EQB 350 4MATIC,66.5,187,6.2 sec,,,,500 km/h,58197.0,69728.0,0.0,All Wheel Drive,Towbar possible,1700.0,7
+147,Porsche,Taycan Plus,97.0,193,4.8 sec,,,,1230 km/h,107224.0,113044.0,0.0,Rear Wheel Drive,,1500.0,5
+148,Volkswagen,ID.5 Pro,77.0,118,6.7 sec,,,,680 km/h,48970.0,53990.0,0.0,Rear Wheel Drive,Towbar possible,1000.0,5
+149,Mercedes-benz,EQA 250+,70.5,129,8.6 sec,,,,500 km/h,52205.0,52546.0,0.0,Front Wheel Drive,Towbar possible,1500.0,5
+150,Ford,Mustang Mach-E ER AWD,91.0,156,5.8 sec,,,,390 km/h,65900.0,66940.0,0.0,All Wheel Drive,Towbar possible,1500.0,5
+151,Audi,Q8 e-tron Sportback 55 quattro,106.0,168,5.6 sec,,,,660 km/h,87550.0,85385.0,0.0,All Wheel Drive,Towbar possible,1800.0,5
+152,Xpeng,G9 RWD Long Range,93.1,130,6.4 sec,,,,1120 km/h,61600.0,63188.0,0.0,Rear Wheel Drive,Towbar possible,1500.0,5
+153,Renault,5 E-Tech 40kWh 95hp,40.0,97,10.0 sec,,,,-,25000.0,25000.0,0.0,Front Wheel Drive,Towbar possible,500.0,5
+154,Gwm,ORA 3 48 kWh,45.4,146,8.3 sec,,,,240 km/h,38990.0,58452.5,0.0,Front Wheel Drive,,1500.0,5
+155,Nio,ET7 100 kWh,90.0,183,3.8 sec,,,,530 km/h,90900.0,93900.0,0.0,All Wheel Drive,Towbar possible,2000.0,5
+156,Kia,EV6 Standard Range 2WD,54.0,148,8.5 sec,,,,750 km/h,46990.0,43495.0,0.0,Rear Wheel Drive,Towbar possible,750.0,5
+157,Skoda,Enyaq 60,58.0,133,8.7 sec,,,,450 km/h,44200.0,44990.0,0.0,Rear Wheel Drive,Towbar possible,1000.0,5
+158,Zeekr,X Privilege AWD,64.0,143,3.8 sec,,,,580 km/h,50470.0,48490.0,0.0,All Wheel Drive,Towbar possible,1600.0,5
+159,Peugeot,e-2008 54 kWh,50.8,136,9.1 sec,,,,480 km/h,39450.0,41270.0,0.0,Front Wheel Drive,,1500.0,5
+160,Volkswagen,ID.3 Pro S - 4 Seats,77.0,106,7.9 sec,,,,680 km/h,47595.0,47990.0,0.0,Rear Wheel Drive,Towbar possible,0.0,4
+161,Nio,EL6 100 kWh,90.0,174,4.5 sec,,,,630 km/h,74500.0,76900.0,0.0,All Wheel Drive,Towbar possible,1200.0,5
+162,Voyah,Free 106 kWh,100.0,154,4.4 sec,,,,360 km/h,56202.0,74150.0,0.0,All Wheel Drive,Towbar possible,2000.0,5
+163,Volkswagen,ID. Buzz GTX,79.0,229,6.5 sec,,,,520 km/h,75000.0,75000.0,0.0,All Wheel Drive,Towbar possible,1800.0,5
+164,Dacia,Spring Electric 65 Extreme,25.0,153,13.7 sec,,,,170 km/h,24550.0,58452.5,0.0,Front Wheel Drive,,1500.0,4
+165,Mercedes-benz,EQS 580 4MATIC,108.4,267,4.3 sec,,,,880 km/h,141705.0,173825.0,0.0,All Wheel Drive,Towbar possible,750.0,5
+166,Lucid,Air Touring,92.0,173,3.2 sec,,,,970 km/h,99000.0,102000.0,0.0,All Wheel Drive,,1500.0,5
+167,Bmw,iX M60,105.2,286,3.8 sec,,,,650 km/h,136100.0,138383.0,0.0,All Wheel Drive,Towbar possible,2500.0,5
+168,Porsche,Taycan,82.3,212,4.8 sec,,,,1070 km/h,101500.0,107000.0,0.0,Rear Wheel Drive,,1500.0,5
+169,Porsche,Taycan Turbo GT,97.0,494,2.3 sec,,,,1050 km/h,240000.0,249900.0,0.0,All Wheel Drive,,1500.0,5
+170,Bmw,iX2 eDrive20,64.7,134,8.6 sec,,,,530 km/h,49400.0,49976.0,0.0,Front Wheel Drive,Towbar possible,750.0,5
+171,Opel,Corsa Electric 50 kWh,46.3,121,8.7 sec,,,,470 km/h,34650.0,34999.0,0.0,Front Wheel Drive,,1500.0,5
+172,Peugeot,e-308,50.8,150,9.8 sec,,,,450 km/h,44765.0,42070.0,0.0,Front Wheel Drive,,1500.0,5
+173,Volkswagen,ID.4 Pure,52.0,150,9.0 sec,,,,360 km/h,40335.0,44990.0,0.0,Rear Wheel Drive,Towbar possible,1000.0,5
+174,Peugeot,e-5008 98 kWh Long Range,98.0,125,9.7 sec,,,,640 km/h,60000.0,60000.0,0.0,Front Wheel Drive,Towbar possible,1500.0,7
+175,Mg,Marvel R,70.0,125,7.9 sec,,,,400 km/h,46990.0,44485.0,0.0,Rear Wheel Drive,Towbar possible,750.0,5
+176,Jaguar,I-Pace EV400,84.7,235,4.8 sec,,,,360 km/h,92400.0,95450.0,0.0,All Wheel Drive,Towbar possible,750.0,5
+177,Audi,Q8 e-tron 50 quattro,89.0,175,6.0 sec,,,,660 km/h,74400.0,71385.0,0.0,All Wheel Drive,Towbar possible,1800.0,5
+178,Volkswagen,ID.4 GTX,77.0,140,5.4 sec,,,,630 km/h,53255.0,60990.0,0.0,All Wheel Drive,Towbar possible,1200.0,5
+179,Dacia,Spring Electric 65,25.0,124,13.7 sec,,,,170 km/h,20000.0,20950.0,0.0,Front Wheel Drive,,1500.0,4
+180,Xpeng,G6 RWD Standard Range,66.0,120,6.9 sec,,,,750 km/h,45000.0,45000.0,0.0,Rear Wheel Drive,Towbar possible,1500.0,5
+181,Nissan,Ariya 63kWh,63.0,137,7.5 sec,,,,450 km/h,47490.0,44990.0,0.0,Front Wheel Drive,Towbar possible,750.0,5
+182,Volvo,EC40 Single Motor ER,79.0,137,7.3 sec,,,,630 km/h,57190.0,53495.0,0.0,Rear Wheel Drive,Towbar possible,1500.0,5
+183,Cupra,Born VZ,79.0,112,5.7 sec,,,,690 km/h,50000.0,50000.0,0.0,Rear Wheel Drive,,1500.0,4
+184,Volkswagen,ID.3 GTX,79.0,112,6.0 sec,,,,690 km/h,50000.0,50000.0,0.0,Rear Wheel Drive,,1500.0,4
+185,Audi,Q4 e-tron 55 quattro,77.0,160,5.4 sec,,,,590 km/h,59000.0,64615.0,0.0,All Wheel Drive,Towbar possible,1200.0,5
+186,Peugeot,e-208 51 kWh,48.1,123,8.2 sec,,,,480 km/h,40325.0,37170.0,0.0,Front Wheel Drive,,1500.0,5
+187,Vinfast,VF 9 Extended Range,123.0,174,6.5 sec,,,,520 km/h,89790.0,91300.0,0.0,All Wheel Drive,,1500.0,7
+188,Mercedes-benz,EQB 300 4MATIC,66.5,169,8.0 sec,,,,500 km/h,55519.0,61379.0,0.0,All Wheel Drive,Towbar possible,1700.0,7
+189,Skoda,Enyaq 85x,77.0,122,6.6 sec,,,,660 km/h,51150.0,58452.5,0.0,All Wheel Drive,Towbar possible,1000.0,5
+190,Kia,e-Soul 64 kWh,64.0,125,7.9 sec,,,,350 km/h,47450.0,58452.5,0.0,Front Wheel Drive,Towbar possible,0.0,5
+191,Renault,Kangoo E-Tech Electric,45.0,179,12.6 sec,,,,230 km/h,39300.0,58452.5,0.0,Front Wheel Drive,Towbar possible,1500.0,5
+192,Maserati,Grecale Folgore,95.0,313,4.1 sec,,,,440 km/h,124301.0,124600.0,0.0,All Wheel Drive,Towbar possible,1800.0,5
+193,Polestar,3 Long Range Dual motor,107.0,177,5.0 sec,,,,640 km/h,85590.0,86950.0,0.0,All Wheel Drive,Towbar possible,2200.0,5
+194,Lotus,Eletre R,109.0,326,2.9 sec,,,,950 km/h,151990.0,154090.0,0.0,All Wheel Drive,Towbar possible,2250.0,5
+195,Nio,EL7 100 kWh,90.0,224,3.9 sec,,,,450 km/h,94900.0,97900.0,0.0,All Wheel Drive,Towbar possible,2000.0,5
+196,Citroen,e-C4 X,46.3,132,9.7 sec,,,,460 km/h,37540.0,38680.0,0.0,Front Wheel Drive,,1500.0,5
+197,Volvo,EX40 Single Motor,67.0,144,7.3 sec,,,,530 km/h,49990.0,45995.0,0.0,Rear Wheel Drive,Towbar possible,1500.0,5
+198,Xpeng,P7 Wing Edition,82.7,155,4.1 sec,,,,730 km/h,69600.0,71188.0,0.0,All Wheel Drive,,1500.0,5
+199,Skoda,Enyaq Coupe RS,77.0,139,5.5 sec,,,,680 km/h,63300.0,63690.0,0.0,All Wheel Drive,Towbar possible,1200.0,5
+200,Ford,Mustang Mach-E SR RWD,72.6,141,7.3 sec,,,,460 km/h,55800.0,46300.0,0.0,Rear Wheel Drive,Towbar possible,750.0,5
+201,Audi,Q4 Sportback e-tron 45,77.0,132,6.7 sec,,,,650 km/h,54950.0,56915.0,0.0,Rear Wheel Drive,Towbar possible,1000.0,5
+202,Volvo,EX40 Twin Motor,79.0,164,4.8 sec,,,,570 km/h,59590.0,58452.5,0.0,All Wheel Drive,Towbar possible,1800.0,5
+203,Ssangyong,Korando e-Motion,56.0,139,8.5 sec,,,,330 km/h,40490.0,39990.0,0.0,Front Wheel Drive,Towbar possible,1500.0,5
+204,Smart,#1 Pro,47.0,148,6.7 sec,,,,320 km/h,37490.0,58452.5,0.0,Rear Wheel Drive,,1500.0,5
+205,Audi,SQ6 e-tron,94.9,225,4.3 sec,,,,890 km/h,93800.0,100000.0,0.0,All Wheel Drive,Towbar possible,2400.0,5
+206,Seres,3,51.0,146,8.9 sec,,,,240 km/h,56202.0,37995.0,0.0,Front Wheel Drive,,1500.0,5
+207,Volvo,EX90 Twin Motor,107.0,209,5.9 sec,,,,610 km/h,91700.0,88995.0,0.0,All Wheel Drive,Towbar possible,2200.0,7
+208,Bmw,i7 eDrive50,101.7,227,5.5 sec,,,,780 km/h,115700.0,122463.0,0.0,Rear Wheel Drive,,1500.0,5
+209,Mini,Cooper E,36.8,150,7.3 sec,,,,350 km/h,32900.0,35990.0,0.0,Front Wheel Drive,,1500.0,4
+210,Audi,Q4 e-tron 45 quattro,77.0,145,6.6 sec,,,,590 km/h,54950.0,56865.0,0.0,All Wheel Drive,Towbar possible,1200.0,5
+211,Opel,Corsa Electric 51 kWh,48.1,124,8.1 sec,,,,490 km/h,38045.0,37999.0,0.0,Front Wheel Drive,,1500.0,5
+212,Bmw,i5 eDrive40 Touring,81.2,170,6.1 sec,,,,730 km/h,72200.0,79622.0,0.0,Rear Wheel Drive,Towbar possible,1500.0,5
+213,Mercedes-benz,EQS 450 4MATIC,108.4,189,5.6 sec,,,,910 km/h,113359.0,116955.0,0.0,All Wheel Drive,Towbar possible,750.0,5
+214,Hongqi,E-HS9 84 kWh,76.5,219,6.5 sec,,,,440 km/h,56202.0,69995.0,0.0,All Wheel Drive,Towbar possible,1500.0,5
+215,Mg,Marvel R Performance,70.0,148,4.9 sec,,,,380 km/h,50990.0,52485.0,0.0,All Wheel Drive,Towbar possible,750.0,5
+216,Renault,Scenic E-Tech EV60 170hp,60.0,123,8.6 sec,,,,400 km/h,41400.0,42470.0,0.0,Front Wheel Drive,Towbar possible,1100.0,5
+217,Renault,Megane E-Tech EV60 130hp,60.0,114,10.5 sec,,,,530 km/h,47000.0,39370.0,0.0,Front Wheel Drive,Towbar possible,500.0,5
+218,Smart,#3 Premium,62.0,130,5.8 sec,,,,550 km/h,46490.0,46055.0,0.0,Rear Wheel Drive,Towbar possible,1600.0,5
+219,Fiat,500e Hatchback 24 kWh,21.3,228,9.0 sec,,,,230 km/h,30990.0,28990.0,0.0,Front Wheel Drive,,1500.0,4
+220,Renault,Megane E-Tech EV40 130hp,40.0,151,10.0 sec,,,,370 km/h,42000.0,36370.0,0.0,Front Wheel Drive,Towbar possible,500.0,5
+221,Genesis,GV60 Premium,74.0,159,7.8 sec,,,,1020 km/h,56202.0,58452.5,0.0,Rear Wheel Drive,Towbar possible,1600.0,5
+222,Lotus,Emeya,100.0,206,4.2 sec,,,,1230 km/h,106400.0,109685.0,0.0,All Wheel Drive,,1500.0,5
+223,Opel,Astra Sports Tourer Electric,50.8,141,9.3 sec,,,,500 km/h,43490.0,41499.0,0.0,Front Wheel Drive,Towbar possible,0.0,5
+224,Xpeng,P7 RWD Long Range,82.7,102,6.7 sec,,,,800 km/h,49600.0,51188.0,0.0,Rear Wheel Drive,,1500.0,5
+225,Mercedes-benz,EQS SUV 450+,118.0,219,6.8 sec,,,,680 km/h,110801.0,125425.0,0.0,Rear Wheel Drive,Towbar possible,750.0,7
+226,Renault,5 E-Tech 40kWh 120hp,40.0,107,9.0 sec,,,,340 km/h,28000.0,28000.0,0.0,Front Wheel Drive,Towbar possible,500.0,5
+227,Ford,Mustang Mach-E GT,91.0,187,3.7 sec,,,,380 km/h,77300.0,75200.0,0.0,All Wheel Drive,Towbar possible,750.0,5
+228,Bmw,i7 M70 xDrive,101.7,381,3.7 sec,,,,730 km/h,181800.0,189877.0,0.0,All Wheel Drive,,1500.0,5
+229,Peugeot,e-308 SW,50.8,151,10.0 sec,,,,450 km/h,45765.0,42570.0,0.0,Front Wheel Drive,,1500.0,5
+230,Xpeng,G6 AWD Performance,87.5,125,4.1 sec,,,,960 km/h,60000.0,60000.0,0.0,All Wheel Drive,Towbar possible,1500.0,5
+231,Mercedes-benz,EQS SUV Maybach 680,118.0,440,4.4 sec,,,,620 km/h,200634.0,216780.0,0.0,All Wheel Drive,Towbar possible,1800.0,4
+232,Peugeot,e-2008 50 kWh,46.3,144,9.9 sec,,,,430 km/h,38600.0,39270.0,0.0,Front Wheel Drive,,1500.0,5
+233,Nissan,Townstar EV Passenger,45.0,178,12.6 sec,,,,230 km/h,39990.0,58452.5,0.0,Front Wheel Drive,Towbar possible,1500.0,5
+234,Audi,SQ8 e-tron,106.0,225,4.5 sec,,,,570 km/h,95800.0,99135.0,0.0,All Wheel Drive,Towbar possible,1800.0,5
+235,Ford,Explorer Standard Range RWD,52.0,155,9.0 sec,,,,350 km/h,42500.0,41450.0,0.0,Rear Wheel Drive,Towbar possible,1000.0,5
+236,Porsche,Taycan Turbo GT Weissach,97.0,494,2.2 sec,,,,1050 km/h,240000.0,249900.0,0.0,All Wheel Drive,,1500.0,2
+237,Gwm,ORA 3 63 kWh,59.3,125,8.2 sec,,,,290 km/h,44490.0,58452.5,0.0,Front Wheel Drive,,1500.0,5
+238,Mg,MG5 Electric Standard Range,46.0,135,7.7 sec,,,,320 km/h,35490.0,35885.0,0.0,Front Wheel Drive,Towbar possible,500.0,5
+239,Mercedes-benz,EQS SUV 580 4MATIC,118.0,303,4.7 sec,,,,670 km/h,147923.0,173825.0,0.0,All Wheel Drive,Towbar possible,1800.0,7
+240,Lucid,Air Pure RWD,92.0,153,4.7 sec,,,,940 km/h,85000.0,88000.0,0.0,All Wheel Drive,,1500.0,5
+241,Volvo,EC40 Single Motor,67.0,152,7.3 sec,,,,560 km/h,52690.0,50495.0,0.0,Rear Wheel Drive,Towbar possible,1500.0,5
+242,Porsche,Taycan 4S Plus,97.0,227,3.7 sec,,,,1210 km/h,126422.0,132631.0,0.0,All Wheel Drive,,1500.0,5
+243,Skoda,Enyaq Coupe 85x,77.0,118,6.6 sec,,,,700 km/h,53400.0,58452.5,0.0,All Wheel Drive,Towbar possible,1200.0,5
+244,Smart,#3 Pro,47.0,147,5.9 sec,,,,340 km/h,38490.0,38395.0,0.0,Rear Wheel Drive,,1500.0,5
+245,Mini,Countryman SE ALL4,64.7,138,5.6 sec,,,,500 km/h,49500.0,49490.0,0.0,All Wheel Drive,Towbar possible,1200.0,5
+246,Ds,3 E-Tense,50.8,137,9.0 sec,,,,480 km/h,40540.0,39640.0,0.0,Front Wheel Drive,,1500.0,5
+247,Volvo,EX90 Twin Motor Performance,107.0,230,4.9 sec,,,,590 km/h,96800.0,98495.0,0.0,All Wheel Drive,Towbar possible,2200.0,7
+248,Lexus,UX 300e,64.0,161,7.5 sec,,,,170 km/h,56202.0,58452.5,0.0,Front Wheel Drive,,1500.0,5
+249,Mercedes-benz,EQE SUV 350 4MATIC,90.6,217,6.6 sec,,,,550 km/h,89548.0,99089.0,0.0,All Wheel Drive,Towbar possible,1800.0,5
+250,Polestar,2 Long Range Performance,79.0,139,4.2 sec,,,,670 km/h,58775.0,61700.0,0.0,All Wheel Drive,Towbar possible,1500.0,5
+251,Xpeng,G9 AWD Performance,93.1,154,3.9 sec,,,,1080 km/h,69600.0,73188.0,0.0,All Wheel Drive,Towbar possible,1500.0,5
+252,Bmw,i5 xDrive40 Sedan,81.2,171,5.4 sec,,,,730 km/h,75600.0,80227.0,0.0,All Wheel Drive,Towbar possible,2000.0,5
+253,Nissan,Ariya e-4ORCE 87kWh - 225 kW,87.0,144,5.7 sec,,,,480 km/h,61990.0,54990.0,0.0,All Wheel Drive,Towbar possible,1500.0,5
+254,Cupra,Tavascan Endurance,77.0,122,6.8 sec,,,,670 km/h,52000.0,55000.0,0.0,Rear Wheel Drive,,1500.0,5
+255,Nio,ET5 75 kWh,70.5,155,4.0 sec,,,,590 km/h,59500.0,62700.0,0.0,All Wheel Drive,Towbar possible,1400.0,5
+256,Mercedes-benz,EQE 350 4MATIC,89.0,157,6.3 sec,,,,640 km/h,74149.0,86263.0,0.0,All Wheel Drive,Towbar possible,750.0,5
+257,Aiways,U5,60.0,131,7.5 sec,,,,380 km/h,39563.0,42950.0,0.0,Front Wheel Drive,,1500.0,5
+258,Citroen,e-C4 X 54 kWh,50.8,125,9.3 sec,,,,470 km/h,41540.0,40755.0,0.0,Front Wheel Drive,,1500.0,5
+259,Mercedes-benz,EQS AMG 53 4MATIC+,108.4,307,3.4 sec,,,,800 km/h,155009.0,173825.0,0.0,All Wheel Drive,Towbar possible,750.0,5
+260,Fiat,500e 3+1 42 kWh,37.3,154,9.0 sec,,,,390 km/h,36990.0,35490.0,0.0,Front Wheel Drive,,1500.0,4
+261,Abarth,500e Hatchback,37.8,172,7.0 sec,,,,370 km/h,37990.0,38490.0,0.0,Front Wheel Drive,,1500.0,4
+262,Opel,Mokka-e 54 kWh,50.8,144,9.0 sec,,,,460 km/h,44720.0,37999.0,0.0,Front Wheel Drive,,1500.0,5
+263,Nio,ET5 Touring 100 kWh,90.0,146,4.0 sec,,,,700 km/h,68500.0,72900.0,0.0,All Wheel Drive,Towbar possible,1400.0,5
+264,Fisker,Ocean Sport,71.0,124,7.4 sec,,,,470 km/h,43900.0,43990.0,0.0,Front Wheel Drive,Towbar possible,1090.0,5
+265,Audi,Q4 Sportback e-tron 55 quattro,77.0,157,5.4 sec,,,,620 km/h,61000.0,66665.0,0.0,All Wheel Drive,Towbar possible,1200.0,5
+266,Mercedes-benz,EQS SUV 450 4MATIC,118.0,247,6.1 sec,,,,670 km/h,114609.0,129660.0,0.0,All Wheel Drive,Towbar possible,1800.0,7
+267,Zeekr,X Long Range RWD,64.0,126,5.6 sec,,,,590 km/h,45970.0,43490.0,0.0,Rear Wheel Drive,Towbar possible,1600.0,5
+268,Cupra,Born 170 kW - 58 kWh,58.0,121,6.6 sec,,,,460 km/h,40750.0,38989.0,0.0,Rear Wheel Drive,,1500.0,5
+269,Citroen,e-C4 54 kWh,50.8,123,9.2 sec,,,,470 km/h,41540.0,39905.0,0.0,Front Wheel Drive,,1500.0,5
+270,Mercedes-benz,EQA 300 4MATIC,66.5,161,7.7 sec,,,,500 km/h,53520.0,58959.0,0.0,All Wheel Drive,Towbar possible,1800.0,5
+271,Nissan,Ariya e-4ORCE 87kWh - 290 kW,87.0,168,5.1 sec,,,,480 km/h,71490.0,64990.0,0.0,All Wheel Drive,Towbar possible,1500.0,5
+272,Genesis,G80 Electrified Luxury,82.5,170,4.9 sec,,,,880 km/h,69200.0,58452.5,0.0,All Wheel Drive,,1500.0,5
+273,Mercedes-benz,EQE 350,89.0,157,6.4 sec,,,,650 km/h,70995.0,83238.0,0.0,Rear Wheel Drive,Towbar possible,750.0,5
+274,Volkswagen,ID.5 GTX,77.0,142,5.5 sec,,,,640 km/h,56455.0,62990.0,0.0,All Wheel Drive,Towbar possible,1200.0,5
+275,Zeekr,001 Privilege AWD,94.0,139,3.8 sec,,,,670 km/h,68970.0,68490.0,0.0,All Wheel Drive,Towbar possible,2000.0,5
+276,Volkswagen,ID.3 GTX Performance,79.0,118,5.6 sec,,,,690 km/h,53000.0,53000.0,0.0,Rear Wheel Drive,,1500.0,4
+277,Lotus,Eletre S,109.0,255,4.5 sec,,,,1000 km/h,121990.0,124090.0,0.0,All Wheel Drive,Towbar possible,2250.0,5
+278,Volvo,EC40 Twin Motor,79.0,160,4.8 sec,,,,600 km/h,61290.0,58452.5,0.0,All Wheel Drive,Towbar possible,1800.0,5
+279,Peugeot,e-3008 73 kWh Dual Motor,73.0,136,6.4 sec,,,,440 km/h,50000.0,50000.0,0.0,All Wheel Drive,Towbar possible,1350.0,5
+280,Hongqi,E-HS9 120 kWh,112.0,224,4.9 sec,,,,420 km/h,56202.0,102995.0,0.0,All Wheel Drive,Towbar possible,1500.0,5
+281,Genesis,GV70 Electrified Sport,74.0,203,4.2 sec,,,,860 km/h,67300.0,58452.5,0.0,All Wheel Drive,Towbar possible,1800.0,5
+282,Mercedes-benz,EQE SUV 350+,96.0,188,6.9 sec,,,,660 km/h,86811.0,91950.0,0.0,Rear Wheel Drive,Towbar possible,750.0,5
+283,Mercedes-benz,EQE AMG 43 4MATIC,90.6,240,4.2 sec,,,,670 km/h,104756.0,111068.0,0.0,All Wheel Drive,Towbar possible,750.0,5
+284,Ford,Mustang Mach-E SR AWD,72.6,170,6.2 sec,,,,430 km/h,56202.0,59400.0,0.0,All Wheel Drive,Towbar possible,750.0,5
+285,Mercedes-benz,EQS 500 4MATIC,108.4,229,4.8 sec,,,,880 km/h,125378.0,145390.0,0.0,All Wheel Drive,Towbar possible,750.0,5
+286,Citroen,e-Berlingo XL 50 kWh,50.0,171,11.7 sec,,,,340 km/h,37940.0,43178.0,0.0,Front Wheel Drive,Towbar possible,750.0,7
+287,Mercedes-benz,EQE SUV 500 4MATIC,96.0,238,4.9 sec,,,,630 km/h,99841.0,116755.0,0.0,All Wheel Drive,Towbar possible,1800.0,5
+288,Mercedes-benz,EQE AMG 53 4MATIC+,90.6,275,3.5 sec,,,,670 km/h,110706.0,128613.0,0.0,All Wheel Drive,Towbar possible,750.0,5
+289,Bmw,i5 M60 xDrive Touring,81.2,263,3.9 sec,,,,670 km/h,101500.0,110477.0,0.0,All Wheel Drive,Towbar possible,2000.0,5
+290,Mercedes-benz,EQA 350 4MATIC,66.5,178,6.0 sec,,,,500 km/h,56424.0,67308.0,0.0,All Wheel Drive,Towbar possible,1800.0,5
+291,Porsche,Taycan 4S,82.3,251,3.7 sec,,,,1050 km/h,120900.0,126800.0,0.0,All Wheel Drive,,1500.0,5
+292,Audi,Q4 Sportback e-tron 45 quattro,77.0,143,6.6 sec,,,,620 km/h,56950.0,58915.0,0.0,All Wheel Drive,Towbar possible,1200.0,5
+293,Volkswagen,ID. Buzz LWB GTX,86.0,225,6.5 sec,,,,570 km/h,78000.0,78000.0,0.0,All Wheel Drive,Towbar possible,1600.0,7
+294,Smart,#3 Pro+,62.0,122,5.8 sec,,,,550 km/h,43490.0,43395.0,0.0,Rear Wheel Drive,Towbar possible,1600.0,5
+295,E.go,e.wave X,27.0,167,12.0 sec,,,,-,24990.0,58452.5,0.0,Rear Wheel Drive,,1500.0,4
+296,Lotus,Emeya S,100.0,241,4.2 sec,,,,1230 km/h,126950.0,130585.0,0.0,All Wheel Drive,,1500.0,5
+297,Polestar,3 Long Range Performance,107.0,198,4.7 sec,,,,610 km/h,92190.0,93550.0,0.0,All Wheel Drive,Towbar possible,2200.0,5
+298,Fiat,500e Cabrio 42 kWh,37.3,166,9.0 sec,,,,380 km/h,37990.0,37490.0,0.0,Front Wheel Drive,,1500.0,4
+299,Citroen,e-Berlingo M 50 kWh,50.0,162,11.7 sec,,,,350 km/h,36940.0,41358.0,0.0,Front Wheel Drive,Towbar possible,750.0,5
+300,Volvo,EC40 Twin Motor Performance,79.0,157,4.6 sec,,,,600 km/h,64390.0,60995.0,0.0,All Wheel Drive,Towbar possible,1800.0,5
+301,Lotus,Emeya R,100.0,324,2.8 sec,,,,1090 km/h,150990.0,155025.0,0.0,All Wheel Drive,,1500.0,5
+302,Mercedes-benz,EQE 500 4MATIC,90.6,200,4.7 sec,,,,750 km/h,88215.0,113488.0,0.0,All Wheel Drive,Towbar possible,750.0,5
+303,Porsche,Taycan Turbo S,97.0,410,2.4 sec,,,,1100 km/h,209900.0,218900.0,0.0,All Wheel Drive,,1500.0,5
+304,Smart,#1 Premium,62.0,134,6.7 sec,,,,520 km/h,44990.0,44895.0,0.0,Rear Wheel Drive,Towbar possible,1600.0,5
+305,Volvo,EX40 Twin Motor Performance,79.0,161,4.6 sec,,,,570 km/h,62890.0,59495.0,0.0,All Wheel Drive,Towbar possible,1800.0,5
+306,Mercedes-benz,EQT 200 Standard,45.0,216,12.6 sec,,,,230 km/h,49445.0,47753.0,0.0,Front Wheel Drive,Towbar possible,1500.0,5
+307,Mercedes-benz,EQE SUV 300,90.6,186,7.6 sec,,,,570 km/h,83479.0,83480.0,0.0,Rear Wheel Drive,Towbar possible,750.0,5
+308,Volvo,EX90 Single Motor,101.0,182,8.4 sec,,,,600 km/h,83700.0,83495.0,0.0,Rear Wheel Drive,Towbar possible,1200.0,7
+309,Porsche,Taycan 4 Cross Turismo,97.0,227,4.7 sec,,,,1110 km/h,113100.0,119400.0,0.0,All Wheel Drive,,1500.0,5
+310,Audi,SQ8 e-tron Sportback,106.0,218,4.5 sec,,,,610 km/h,98050.0,101535.0,0.0,All Wheel Drive,Towbar possible,1800.0,5
+311,Mercedes-benz,EQE SUV AMG 53 4MATIC+,90.6,353,3.5 sec,,,,610 km/h,139438.0,149788.0,0.0,All Wheel Drive,Towbar possible,1800.0,5
+312,Xpeng,P7 AWD Performance,82.7,130,4.1 sec,,,,740 km/h,58600.0,61188.0,0.0,All Wheel Drive,,1500.0,5
+313,Skoda,Enyaq RS,77.0,140,5.5 sec,,,,650 km/h,61050.0,58452.5,0.0,All Wheel Drive,Towbar possible,1200.0,5
+314,Audi,Q8 e-tron Sportback 50 quattro,89.0,173,6.0 sec,,,,690 km/h,76650.0,73785.0,0.0,All Wheel Drive,Towbar possible,1800.0,5
+315,Vinfast,VF 8 Eco Extended Range,87.7,126,5.9 sec,,,,550 km/h,52990.0,53900.0,0.0,All Wheel Drive,,1500.0,5
+316,Byd,DOLPHIN 44.9 kWh Boost,44.9,125,8.0 sec,,,,260 km/h,30000.0,32990.0,0.0,Front Wheel Drive,,1500.0,5
+317,Gwm,ORA 3 GT,59.3,152,8.2 sec,,,,280 km/h,49490.0,58452.5,0.0,Front Wheel Drive,,1500.0,5
+318,Mercedes-benz,EQS SUV 500 4MATIC,118.0,257,5.3 sec,,,,670 km/h,124545.0,148173.0,0.0,All Wheel Drive,Towbar possible,1800.0,7
+319,Mercedes-benz,eVito Tourer Long 90 kWh,90.0,245,12.1 sec,,,,320 km/h,72043.0,84773.0,0.0,Front Wheel Drive,,1500.0,8
+320,Mercedes-benz,EQE SUV AMG 43 4MATIC,90.6,308,4.3 sec,,,,620 km/h,124920.0,130791.0,0.0,All Wheel Drive,Towbar possible,1800.0,5
+321,Porsche,Taycan 4S Cross Turismo,97.0,247,3.8 sec,,,,1110 km/h,126400.0,132600.0,0.0,All Wheel Drive,,1500.0,5
+322,Porsche,Taycan Turbo,97.0,329,2.7 sec,,,,1140 km/h,175600.0,183000.0,0.0,All Wheel Drive,,1500.0,5
+323,Genesis,GV60 Sport,74.0,171,5.5 sec,,,,990 km/h,63200.0,58452.5,0.0,All Wheel Drive,Towbar possible,1600.0,5
+324,Skoda,Enyaq Coupe 60,58.0,134,8.8 sec,,,,480 km/h,46850.0,47990.0,0.0,Rear Wheel Drive,Towbar possible,1000.0,5
+325,Kia,e-Soul 39.2 kWh,39.2,164,9.9 sec,,,,200 km/h,56202.0,58452.5,0.0,Front Wheel Drive,,1500.0,5
+326,Aiways,U6,60.0,138,7.0 sec,,,,430 km/h,47588.0,48975.0,0.0,Front Wheel Drive,,1500.0,5
+327,Elaris,BEO 86 kWh,81.0,136,8.0 sec,,,,290 km/h,53090.0,58452.5,0.0,Front Wheel Drive,,1500.0,5
+328,Peugeot,e-5008 73 kWh Dual Motor,73.0,154,6.0 sec,,,,420 km/h,55000.0,55000.0,0.0,All Wheel Drive,Towbar possible,1500.0,7
+329,Porsche,Taycan Turbo S Cross Turismo,97.0,434,2.5 sec,,,,1050 km/h,211300.0,220400.0,0.0,All Wheel Drive,,1500.0,5
+330,Nio,ET5 Touring 75 kWh,70.5,160,4.0 sec,,,,570 km/h,59500.0,63900.0,0.0,All Wheel Drive,Towbar possible,1400.0,5
+331,Volkswagen,ID. Buzz LWB Pro,77.0,210,7.9 sec,,,,460 km/h,70000.0,70000.0,0.0,Rear Wheel Drive,Towbar possible,1500.0,7
+332,Porsche,Taycan 4S Sport Turismo,82.3,280,3.7 sec,,,,950 km/h,121800.0,127800.0,0.0,All Wheel Drive,,1500.0,5
+333,Nio,EL7 75 kWh,70.5,257,3.9 sec,,,,510 km/h,85900.0,88900.0,0.0,All Wheel Drive,Towbar possible,2000.0,5
+334,Porsche,Taycan Sport Turismo,82.3,233,4.8 sec,,,,980 km/h,102400.0,108100.0,0.0,Rear Wheel Drive,,1500.0,5
+335,Porsche,Taycan Plus Sport Turismo,97.0,212,4.8 sec,,,,1130 km/h,108124.0,114144.0,0.0,Rear Wheel Drive,,1500.0,5
+336,Smart,#1 Pulse,62.0,142,4.5 sec,,,,500 km/h,46490.0,46055.0,0.0,All Wheel Drive,Towbar possible,1600.0,5
+337,Vinfast,VF 8 Plus Extended Range,87.7,140,5.5 sec,,,,550 km/h,58890.0,59790.0,0.0,All Wheel Drive,,1500.0,5
+338,Porsche,Taycan Turbo S Sport Turismo,97.0,447,2.4 sec,,,,1010 km/h,210800.0,219900.0,0.0,All Wheel Drive,,1500.0,5
+339,Nio,EL6 75 kWh,70.5,191,4.5 sec,,,,520 km/h,65500.0,67900.0,0.0,All Wheel Drive,Towbar possible,1200.0,5
+340,Fiat,500e Cabrio 24 kWh,21.3,250,9.0 sec,,,,230 km/h,35490.0,31990.0,0.0,Front Wheel Drive,,1500.0,4
+341,Mercedes-benz,EQV 250 Extra-Long,60.0,363,12.0 sec,,,,200 km/h,76217.0,58452.5,0.0,Front Wheel Drive,,1500.0,7
+342,Genesis,GV60 Sport Plus,74.0,206,4.0 sec,,,,950 km/h,73100.0,58452.5,0.0,All Wheel Drive,Towbar possible,1600.0,5
+343,Abarth,500e Convertible,37.8,186,7.0 sec,,,,370 km/h,40990.0,41490.0,0.0,Front Wheel Drive,,1500.0,4
+344,Porsche,Taycan 4S Plus Sport Turismo,97.0,254,3.7 sec,,,,1090 km/h,127322.0,133631.0,0.0,All Wheel Drive,,1500.0,5
+345,Porsche,Taycan Turbo Sport Turismo,97.0,366,2.7 sec,,,,1030 km/h,176600.0,184000.0,0.0,All Wheel Drive,,1500.0,5
+346,Fiat,500e 3+1 24 kWh,21.3,230,9.0 sec,,,,230 km/h,56202.0,30990.0,0.0,Front Wheel Drive,,1500.0,4
+347,Porsche,Taycan Turbo Cross Turismo,97.0,348,2.8 sec,,,,1090 km/h,177000.0,184500.0,0.0,All Wheel Drive,,1500.0,5
+348,Mercedes-benz,EQV 250 Long,60.0,350,12.0 sec,,,,200 km/h,75282.0,58452.5,0.0,Front Wheel Drive,,1500.0,7
+349,Mercedes-benz,eVito Tourer Long 60 kWh,60.0,311,12.0 sec,,,,210 km/h,68398.0,58452.5,0.0,Front Wheel Drive,,1500.0,8
+350,Mercedes-benz,eVito Tourer Extra-Long 60 kWh,60.0,322,12.0 sec,,,,200 km/h,69309.0,58452.5,0.0,Front Wheel Drive,,1500.0,8
+351,Kgm,Torres EVX,72.0,130,8.1 sec,,,,390 km/h,43990.0,41250.0,0.0,Front Wheel Drive,Towbar possible,1500.0,5
+352,Mini,Aceman E,38.5,163,7.9 sec,,,,370 km/h,37000.0,38990.0,0.0,Front Wheel Drive,,1500.0,5
+353,Mini,Aceman SE,49.8,137,7.1 sec,,,,430 km/h,40000.0,42000.0,0.0,Front Wheel Drive,,1500.0,5
